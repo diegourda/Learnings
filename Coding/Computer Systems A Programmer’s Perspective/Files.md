@@ -1,0 +1,1 @@
+Sequence of bytes, nothing more, nothing less.
