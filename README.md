@@ -8,8 +8,8 @@ A repository of mathematical concepts and techniques essential for Quantitative 
 Finance:
 Notes on core finance concepts, focusing on financial instruments, pricing models, options, derivatives, portfolio management, and quantitative finance strategies.
 
-Coding:
-Python programming materials, including scripts, tutorials, projects and notes. The focus is on Python for data analysis, algorithmic trading, Monte Carlo simulations, and other finance-related applications. C++ soon.
+Computer Science:
+Python programming materials as well as C++. Also computer science knowledge like computer architecture, operating systems, algorithms, etc.
 
 This repository is a work in progress and is updated as I learn and apply new concepts. It’s a personal knowledge base designed to consolidate resources, track progress, and document the process of acquiring skills for a career in Quantitative Finance.
 
